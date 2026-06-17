@@ -21,7 +21,7 @@
 
   <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-[![Vaishnavi Gupta GitHub stats](https://github-akshatnayal-26.vercel.app/api?username=programmervaishnavi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/programmervaishnavi/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-akshatnayal-26.vercel.app/api/top-langs/?username=programmervaishnavi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](programmervaishnavi)
+[![Vaishnavi Gupta GitHub stats](https://github-akshatnayal-26.vercel.app/api?username=programmervaishnavi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/programmervaishnavi/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-akshatnayal-26.vercel.app/api/top-langs/?username=programmervaishnavi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/programmervaishnavi/)
 
 </div>
 
